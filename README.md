@@ -11,7 +11,7 @@
 - Linear Algebra, Probability Theory and Statistics
 
 ## Tools 🛠
-![python-logo-only](https://github.com/EgorDulesov/EgorDulesov/assets/97967606/f793de72-7ab0-4963-af80-6c025cf008f0)
+![pngegg](https://github.com/EgorDulesov/EgorDulesov/assets/97967606/09c7e0e0-13ac-4c3b-8fb5-d709d4952c73)
 
 
 <!---
