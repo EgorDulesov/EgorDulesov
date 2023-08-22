@@ -11,8 +11,10 @@
 - Linear Algebra, Probability Theory and Statistics
 
 ## Tools 🛠
-![pngegg](https://github.com/EgorDulesov/EgorDulesov/assets/97967606/09c7e0e0-13ac-4c3b-8fb5-d709d4952c73)
+![output-onlinepngtools](https://github.com/EgorDulesov/EgorDulesov/assets/97967606/3e324b96-6d26-442c-b80b-3b46fd21c10f)
 
+
+![icons8-tableau-software-48](https://github.com/EgorDulesov/EgorDulesov/assets/97967606/26838be6-ad15-4056-a6f7-41272e2adb35)
 
 <!---
 EgorDulesov/EgorDulesov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
