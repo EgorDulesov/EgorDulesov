@@ -12,8 +12,9 @@
 
 ## Tools 🛠
 
-![icons8-tablea![sql pic](https://github.com/EgorDulesov/EgorDulesov/assets/97967606/a301654f-ed24-45f6-a89a-acd5f2d95c4c)
-u-software-48](https://github.com/EgorDulesov/EgorDulesov/assets/97967606/b29d5959-43bb-461c-a738-ff10f5107369)
+- ![icons8-tablea![sql pic](https://github.com/EgorDulesov/EgorDulesov/assets/97967606/a301654f-ed24-45f6-a89a-acd5f2d95c4c)
+- 
+- u-software-48](https://github.com/EgorDulesov/EgorDulesov/assets/97967606/b29d5959-43bb-461c-a738-ff10f5107369)
 
 
 <!---
